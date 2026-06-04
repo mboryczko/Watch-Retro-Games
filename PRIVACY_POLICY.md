@@ -1,13 +1,22 @@
-# Privacy Policy
+Privacy Policy
 
 Last updated: June 2026
 
-Retro Watch Games does not collect, store, transmit, or share personal information.
+Watch Retro Games respects your privacy.
 
-Game progress and settings are stored locally on the user's device.
+Data Collection
+This app does not collect, store, or share any personal information.
 
-The app does not require user accounts and does not use advertising services.
+Purchases
+In-app purchases are processed by Apple through the App Store. We do not receive or store your payment information.
 
-If you have any questions, contact:
+Analytics
+This app does not use third-party analytics services to track users.
 
-[mj.boryczko@gmail.com](mailto:mj.boryczko@gmail.com)
+Data Sharing
+We do not sell, share, or transfer user data to third parties.
+
+Contact
+If you have any questions about this Privacy Policy, please contact:
+
+developer@twojadomena.com
