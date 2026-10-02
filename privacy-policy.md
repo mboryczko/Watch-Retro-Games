@@ -19,4 +19,4 @@ We do not sell, share, or transfer user data to third parties.
 Contact
 If you have any questions about this Privacy Policy, please contact:
 
-developer@twojadomena.com
+watch.games.retro@gmail.com
